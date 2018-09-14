@@ -4,7 +4,7 @@
 
 def start()
   puts "Welcome to the Palindrome Palace!"
-	puts "Pleace enter a word that is a palindrome"
+	puts "Please enter a word that is a palindrome"
 	puts "enter q to Quit"
 	puts
 	user_input = gets.strip.downcase
